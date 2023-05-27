@@ -1,4 +1,4 @@
-##1
+###1
 def generate_num(num):
     if num < 2:
         return False
